@@ -9,6 +9,6 @@ This web page is supported by Google Chrome.
  _A Pen created at CodePen.io. Original URL: [https://codepen.io/ladyjellington/pen/zYYMaPx](https://codepen.io/ladyjellington/pen/zYYMaPx).
 I using ** <div class = "name"></div> **
 I using ** <meta charset="UTF-8"> **
-a> <link rel="stylesheet" href="./style.css">
-a> <title>acsses to MBSC</title>
+> <link rel="stylesheet" href="./style.css">
+> <title>acsses to MBSC</title>
  
