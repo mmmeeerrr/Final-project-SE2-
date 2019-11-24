@@ -7,8 +7,9 @@ and entrepreneurial thinking to enable them to obtain and create jobs, to be eco
 This web page is supported by Google Chrome.
 ### Loading Screen to Header Link CSS Animation
  _A Pen created at CodePen.io. Original URL: [https://codepen.io/ladyjellington/pen/zYYMaPx](https://codepen.io/ladyjellington/pen/zYYMaPx).
-I using > <div class = "name"></div>.
-I using > <meta charset="UTF-8">.
+I using **div** and **class**
+> <div class = "name"></div>.
+> <meta charset="UTF-8">.
 > <link rel="stylesheet" href="./style.css">
 > <title>acsses to MBSC</title>
  
